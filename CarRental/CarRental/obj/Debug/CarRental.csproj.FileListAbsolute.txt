@@ -1,0 +1,2 @@
+C:\Users\tumza\OneDrive\Desktop\Dikgale_Tumisho David_CT1\CarRental\CarRental\obj\Debug\CarRental.csproj.AssemblyReference.cache
+C:\Users\tumza\OneDrive\Desktop\Dikgale_Tumisho David_CT1\CarRental\CarRental\obj\Debug\CarRental.csproj.CoreCompileInputs.cache
